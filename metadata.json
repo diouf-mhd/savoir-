@@ -1,0 +1,8 @@
+{
+  "name": "Savoir+ Sénégal",
+  "description": "Application éducative offline-first pour les élèves du secondaire au Sénégal (6ème à Terminale)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
